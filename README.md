@@ -139,3 +139,13 @@ Senior Software Engineer | Angular developer (JavaScript | TypeScript | Angular 
     </tr>
   </table>
 </div>
+
+
+### Summary:
+
+Senior Software Engineer with 7+ years of hands-on experience building scalable, high-performance web applications using Angular. I bring a deep understanding of modern front-end development and user-centered design.
+
+I’m passionate about writing clean, maintainable, and testable code that not only meets business objectives but also delivers seamless user experiences. My work consistently reflects strong attention to detail, a commitment to code quality, and a drive to enhance UI performance and usability.
+
+I take pride in building responsive, data-driven solutions that provide real value and elevate user engagement.
+Let’s build something exceptional—clean code, intuitive UX, and solid architecture at the core.
